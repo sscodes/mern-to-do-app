@@ -1,1 +1,1 @@
-export const api = 'http://localhost:7070/api/'
+export const api = 'https://merntodo-app.herokuapp.com/api/'
